@@ -14,6 +14,8 @@ $ npm install
 
 ## Usage
 
+Run a crawl on example.com
+
 ```
-$ NODE_PATH=node_modules/ ./scripts/dpa.js
+$ NODE_PATH=node_modules/ ./scripts/dpa.js example.com
 ```

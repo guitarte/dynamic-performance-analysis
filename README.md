@@ -7,7 +7,7 @@
 ## Installation
 
 ```
-$ git git@github.com:guitarte/dynamic-performance-analysis.git
+$ git clone git@github.com:guitarte/dynamic-performance-analysis.git
 $ cd ./dynamic-performance-analysis
 $ npm install
 ```

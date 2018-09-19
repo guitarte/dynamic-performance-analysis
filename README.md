@@ -14,8 +14,8 @@ $ npm install
 
 ## Usage
 
-Run a crawl on example.com
+Run a crawl on https://example.com
 
 ```
-$ NODE_PATH=node_modules/ ./scripts/dpa.js example.com
+$ NODE_PATH=node_modules/ ./scripts/dpa.js https://example.com
 ```

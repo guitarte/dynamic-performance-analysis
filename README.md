@@ -17,5 +17,6 @@ $ npm install
 Run a crawl on https://example.com
 
 ```
+$ cd ./dynamic-performance-analysis
 $ NODE_PATH=node_modules/ ./scripts/dpa.js https://example.com
 ```

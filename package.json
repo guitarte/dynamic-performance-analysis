@@ -1,0 +1,25 @@
+{
+  "name": "dynamic-performance-analysis",
+  "version": "1.0.0",
+  "description": "Web crawler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guitarte/dynamic-performance-analysis.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Christopher Guitarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guitarte/dynamic-performance-analysis/issues"
+  },
+  "homepage": "https://github.com/guitarte/dynamic-performance-analysis#readme",
+  "dependencies": {
+    "headless-chrome-crawler": "^1.8.0"
+  }
+}

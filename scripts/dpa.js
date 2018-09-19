@@ -20,5 +20,5 @@ const exporter = new CSVExporter({
   });
   await crawler.queue({ obeyRobotsTxt: false, url: myURL.href }, console.log("Started! " + Date()));
   await crawler.onIdle();
-  await crawler.close(console.log("Yay, done! " + Date()));
+  await crawler.close(console.log("Yay, done! " + Date() + "\nOutput file in: " + FILE));
 })();
